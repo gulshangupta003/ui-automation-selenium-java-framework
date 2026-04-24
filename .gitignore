@@ -40,4 +40,5 @@ build/
 logs/
 screenshots/
 allure-results/
+allure-report/
 .idea/
